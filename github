@@ -1,6 +1,6 @@
-(double b1,b2,h;
+{double b1,b2,h;
 cin<<b1<<b2<<h;
 Lice=((b1+b2)*h)/2;
 cout<<"Lice="<<lice;
 return 0;
-)
+}
